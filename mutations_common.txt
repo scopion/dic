@@ -34,6 +34,8 @@
 .old
 .orig
 .pas
+.pem
+.key
 .rar
 .sav
 .saved
