@@ -27,7 +27,6 @@ AgentPassUpdate
 autopass
 b2b_Adminpassword
 backpass
-backpass
 bandpass
 bypass
 cavecreekleavemypasswordfilealone
@@ -37,15 +36,12 @@ cfcx_restore_password_form
 ChangeAdminPassword
 changepass
 change_pass
-changepass
-changepasswd
 changepasswd
 changepassword
 change_password
 change-password
 changepasswordsuccess
 ChangePasswordSuccess
-change_password
 changpassword
 checkpass
 CheckPass
@@ -74,11 +70,9 @@ epassport
 epochpassword
 findpassword
 find_password
-findpassword
 forgetpass
 forgetpassword
 forget_password
-forgetpassword
 forgot-password
 fuwu_passw
 gchpassword
@@ -89,8 +83,6 @@ gethtpass
 GetHtPass
 getpass
 Getpass
-getpass
-get_passwd
 get_passwd
 getpassword
 get_password
@@ -106,8 +98,6 @@ Get_Password2
 get_password3
 Get_Password3
 getpassword_process
-getpassword
-GetPassword
 guestpass
 gyrocompass
 htpass
@@ -138,8 +128,6 @@ letpass
 linkpass
 linkunpass
 LookForPassword
-LookForPassword
-LookupPass
 LookupPass
 lostpass
 LostPass
@@ -149,7 +137,6 @@ lostpassstep3
 LostPassStep3
 lostpassstep4
 LostPassStep4
-lostpass
 lostpassword
 LostPassword
 member_change_pass
@@ -184,8 +171,6 @@ new-password
 newspass
 newupass
 nopass
-nopass
-ok_pass
 ok_pass
 pass
 pass1
@@ -235,7 +220,6 @@ passport
 passport_callback
 passport_client
 passportclientplugin
-passport_client
 passport_phpwind
 passports
 passport_server
@@ -245,13 +229,10 @@ pass-reminder
 passupdate
 PassUpdate
 pass_user
-pass
-pass3
 passw
 passwd
 ~passwd
 passwd|
-passwd
 passwd%00
 passwd%00|
 passwd%00html
@@ -275,8 +256,6 @@ passwd&requestid=dummy&username=blah&password=blah
 passwd&RequestID=DUMMY&username=blah&password=blah
 passwd&RequestID=DUMMY&username=sec&password=secu
 passwds
-passwd
-passwd3
 passwor
 Passwor
 passwor1
@@ -296,13 +275,9 @@ passwords3
 passwordsaspx
 passwords-bak
 passwordstrength
-passwords
-passwords3
 passwordunmask
 passwordupdate
 PasswordUpdate
-password
-password3
 passwordz
 passworld
 passwrd
@@ -335,7 +310,6 @@ save_pass
 sch_changepass
 Sch_ChangePass
 sendpass
-sendpass
 SetAdminPassWord
 sitehtpass
 sohu_passport
@@ -357,7 +331,6 @@ User_Contribution_Passed
 usergetpass
 user_getpass
 UserGetPass
-user_getpass
 user_getpassword
 User_GetPassword
 user_getpassword_code
@@ -366,7 +339,6 @@ user_getpassword_step1
 User_GetPassword_step1
 user_getpassword_step2
 User_GetPassword_step2
-User_GetPassword
 user_kazy_password
 user_modify_pass
 User_Modify_Pass
@@ -378,7 +350,6 @@ userpassword
 user_password
 User_PassWord
 User_PassWordGet
-User_PassWordGet
 user_passwordresult
 User_PassWordResult
 video_pass
@@ -389,5 +360,4 @@ Web_Person_EditPass
 Web_School_EditPass
 wordpass
 yd631_angela_pass
-z9v8passport_client
 z9v8passport_client
