@@ -1,0 +1,11 @@
+email=1371310352@qq.com
+phone=18764881205
+role=admin
+name=fdsggs&passwd=gegre&code=b8cx
+chinese_name=, city=,company_name=,imgcode=,mail=,mobile=,name=,passwd=,prince=,smscode=,user_type=
+ user_uid=673; user_name=testadmin; user_user_type=7; 
+ user_type=1&company_name=dsfasfasddgafafg&privince=%E6%B5%99%E6%B1%9F&city=%E5%AE%81%E6%B3%A2&name=asgtrw&passwd=agreth&chinese_name=qwtqwsd&mobile=13717587573&imgcode=ykip&smscode=7686&mail=
+ check=check&c_page=1&c_casestate=dsh
+
+
+隐藏变量 

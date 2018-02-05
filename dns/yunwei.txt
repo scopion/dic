@@ -1,0 +1,12 @@
+jira
+wiki
+zabbix
+nagios
+hudson
+jenkins
+ldap
+jump
+zbox
+zentao
+health
+beta

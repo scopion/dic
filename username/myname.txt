@@ -1,0 +1,8 @@
+a@aa.com
+both
+test
+admin
+tomcat
+role1
+user
+root

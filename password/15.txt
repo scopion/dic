@@ -1,0 +1,14 @@
+111111
+123456
+1234567
+12345678
+abc123
+iloveyou
+letmein
+password
+passw0rd
+qwerty
+test
+test123
+root
+admin
