@@ -1,6 +1,5 @@
 
 _
-@
 0
 00
 01
@@ -26,16 +25,6 @@ _
 13
 14
 15
-1990
-1991
-1992
-1993
-1994
-1995
-1996
-1997
-1998
-1999
 1x1
 2
 20
@@ -164,11 +153,9 @@ ad_js
 adlog
 adlogger
 adm
-~adm
 _adm
 ADM
 admin
-~admin
 _admin
 admin_
 admin
@@ -201,7 +188,6 @@ administratie
 administration
 Administration
 administrator
-~administrator
 administratoraccounts
 administrators
 administrivia
@@ -308,7 +294,6 @@ am
 ama
 amadeus
 amanda
-~amanda
 amazon
 amber
 amember
@@ -358,7 +343,6 @@ aol
 ap
 apac
 apache
-~apache
 apanel
 apc
 apexec
@@ -633,7 +617,6 @@ bilder
 bill
 billing
 bin
-~bin
 binaries
 binary
 bins
@@ -1997,7 +1980,6 @@ frontpage
 fs
 fsck
 ftp
-~ftp
 fuck
 fuckoff
 fuckyou
@@ -2156,7 +2138,6 @@ guardar
 gucci
 guess
 guest
-~guest
 guestbook
 guests
 guest-tracking
@@ -2285,11 +2266,8 @@ HTML
 htmlarea
 htmls
 htpasswd
-.htpasswd
 http
-~http
 httpd
-~httpd
 httpdocs
 httpmodules
 https
@@ -2821,7 +2799,6 @@ locked
 lockout
 lofiversion
 log
-~log
 Log
 log4j
 log4net
@@ -2848,7 +2825,6 @@ logos
 logo_sysadmin
 logout
 logs
-~logs
 Logs
 logview
 lois
@@ -2866,7 +2842,6 @@ louis
 love
 low
 lp
-~lp
 lpt1
 lpt2
 ls
@@ -2902,7 +2877,6 @@ magic
 magnifier_xml
 magpierss
 mail
-~mail
 mailbox
 mailer
 mailing
@@ -3252,7 +3226,6 @@ nk9
 nl
 no
 nobody
-~nobody
 node
 noindex
 no-index
@@ -3355,7 +3328,6 @@ opera
 operacio
 operations
 operator
-~operator
 opinion
 opinions
 opml
@@ -4173,7 +4145,6 @@ romano
 ronald
 room
 root
-~root
 Root
 rorentity
 rorindex
@@ -4775,10 +4746,7 @@ sync
 synced
 syndication
 sys
-~sys
-~sysadm
 sysadmin
-~sysadmin
 sys-admin
 SysAdmin
 sysadmin2
@@ -4877,7 +4845,6 @@ terms-of-use
 terms_privacy
 terrorism
 test
-~test
 _test
 Test
 TEST
@@ -4956,7 +4923,6 @@ titulars
 tl
 tls
 tmp
-~tmp
 _tmp
 TMP
 _tmpfileop
@@ -5152,7 +5118,6 @@ US
 usa
 usage
 user
-~user
 useradmin
 userapp
 usercontrols
@@ -5368,7 +5333,6 @@ weblogic
 weblogs
 webmail
 webmaster
-~webmaster
 webmasters
 webpages
 webplus
@@ -5509,7 +5473,6 @@ wtai
 wusage
 wwhelp
 www
-~www
 _www
 www1
 www2

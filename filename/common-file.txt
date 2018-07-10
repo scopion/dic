@@ -37,6 +37,8 @@
 .git/config
 .DS_Store
 .hg
+.htaccess
+.htpasswd
 robots.txt
 crossdomain.xml
 README
@@ -69,11 +71,13 @@ WEB-INF/struts.properties
 WEB-INF/applicationContext.xml
 WEB-INF/spring-servlet.xml
 config/config_ucenter.php.bak
+/docs/appdev/sample/web/WEB-INF/web.xml
 WEB-INF/modules/struts-config-codingShare.xml
 loadxml.asmx
 App_Config/ConnectionStrings.config
 php/report/include/config.inc
 config/config_global.php.bak
+spring-css/resources/file:/etc/passwd
 .svn/entries
 .git/config
 .DS_Store
@@ -84,3 +88,4 @@ WEB-INF/database.properties
 %C0%AE/WEB-INF/webContext.xml
 %c0%ae%c0%ae/
 WEB-INF/webContext.xml
+beans.json

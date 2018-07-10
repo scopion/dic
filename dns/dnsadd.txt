@@ -1,8 +1,0 @@
-jira
-wiki
-git
-hudson
-jenkins
-zabbix
-oa
-nagios

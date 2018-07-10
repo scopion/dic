@@ -33,9 +33,9 @@ config.inc.php
 sites/default/settings.php
 config.inc.php
 include/config.inc.php
-wp-config.php      
+wp-config.php
 data/sqlconfig.php
-php168/ mysql_config.php
+php168/mysql_config.php
 config/config.php
 data/config.php
 configuration.php
