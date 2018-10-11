@@ -18,7 +18,10 @@ FCKeditor/editor/filemanager/connectors/uploadtest.html
 FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=/
 
 fckeditor/editor/filemanager/browser/default/browser.html?Type=Image&Connector=connectors/asp/connector.asp
-
+fckeditor/editor/filemanager/upload/test.html
+fckeditor/editor/filemanager/browser/default/connectors/test.html
+fckeditor/editor/filemanager/connectors/test.html
+fckeditor/editor/filemanager/connectors/uploadtest.html
 
 /ewebeditor/admin_login.asp
 /WebEdior/admin/login.aspx
