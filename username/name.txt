@@ -19,3 +19,5 @@ owner
 user
 anonymous
 ftp
+guest
+rabbit

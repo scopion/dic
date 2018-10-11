@@ -8,6 +8,8 @@
 abc123
 admin
 admin1234
+test
+test123
 adobe123
 axis2
 buyaoyongroot
