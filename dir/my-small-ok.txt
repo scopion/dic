@@ -1,4 +1,10 @@
 
+/beans
+/env
+/health
+/metrics
+/trace
+/mappings
 _
 0
 00

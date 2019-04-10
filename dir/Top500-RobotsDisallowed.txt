@@ -1,3 +1,9 @@
+/beans
+/env
+/health
+/metrics
+/trace
+/mappings
 /
 /admin/
 /search/
