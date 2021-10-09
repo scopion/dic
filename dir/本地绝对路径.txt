@@ -1,2 +1,0 @@
-/var/www/html/static
-/etc/passwd

@@ -63,7 +63,4 @@
 ~
 .~
 !
-.svn/entries
-.git/config
-.DS_Store
-.hg/
+

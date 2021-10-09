@@ -37,6 +37,10 @@
 .git/config
 .DS_Store
 .hg
+.svn
+.git
+.ds_store
+.hg/
 .htaccess
 .htpasswd
 .env
@@ -72,7 +76,7 @@ WEB-INF/struts.properties
 WEB-INF/applicationContext.xml
 WEB-INF/spring-servlet.xml
 config/config_ucenter.php.bak
-/docs/appdev/sample/web/WEB-INF/web.xml
+docs/appdev/sample/web/WEB-INF/web.xml
 WEB-INF/modules/struts-config-codingShare.xml
 loadxml.asmx
 App_Config/ConnectionStrings.config
