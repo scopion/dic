@@ -39,6 +39,7 @@
 .hg
 .htaccess
 .htpasswd
+.env
 robots.txt
 crossdomain.xml
 README

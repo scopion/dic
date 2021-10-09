@@ -27,7 +27,6 @@ a123456
 abc123
 asd123
 asdasd
-haoweilai
 qazwsx
 qq123456
 qwe123

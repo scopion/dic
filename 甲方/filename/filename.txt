@@ -32,3 +32,17 @@ wp-config
 dbconfig
 jrun
 dist
+back
+dev
+pro
+prop
+prod
+Release
+beian
+test
+2010
+数据备份
+数据库备份
+数据
+源码
+网站
