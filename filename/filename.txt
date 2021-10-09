@@ -30,3 +30,4 @@ adminconfig
 wp-config
 dbconfig
 jrun
+dist
