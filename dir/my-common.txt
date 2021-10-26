@@ -1,0 +1,5 @@
+manage
+management
+env
+appenv
+actuator
