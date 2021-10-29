@@ -1,11 +1,6 @@
 #framework 框架路径识别及检查
 
-manager/html
-console/login/loginForm.jsp
-jmx-console
-web-console
-axis2-admin
-services/Axis2Shell/execCmd?cmd=whoami
+
 forum.php?mod=attachment&findpost=ss&aid=1
 home.php?mod=space&uid=4&do=profile
 source/plugin/myrepeats/table/table_myrepeats.php

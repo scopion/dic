@@ -115,5 +115,3 @@ lang
 override
 jdbc
 logging
-pom
-
