@@ -32,3 +32,12 @@ push
 publish
 live
 msh
+packagist
+nexus
+package
+npm
+maven
+repo
+gpr
+mod
+go-mod
