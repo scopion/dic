@@ -1,0 +1,7 @@
+[level=1]
+db2inst1
+db2admin
+[level=2]
+Administrator
+db2fenc1
+dasusr1

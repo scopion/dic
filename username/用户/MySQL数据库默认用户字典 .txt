@@ -1,0 +1,10 @@
+[level=1]
+root
+[level=2]
+mysql
+[level=3]
+test
+[level=4]
+user
+[level=5]
+guest

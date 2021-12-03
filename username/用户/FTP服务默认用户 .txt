@@ -1,0 +1,8 @@
+[type=default]
+[desc=ftp默认扫描的用户]
+[level=1]
+ftp
+root
+anonymous
+guest
+Administrator

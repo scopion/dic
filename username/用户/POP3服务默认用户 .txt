@@ -1,0 +1,5 @@
+[type=default]
+[desc=POP3的默认用户名]
+[level=1]
+test@example.com
+root@example.com

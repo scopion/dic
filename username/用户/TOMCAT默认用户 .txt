@@ -1,0 +1,7 @@
+[level=1]
+admin
+tomcat
+[level=2]
+both
+role1
+root

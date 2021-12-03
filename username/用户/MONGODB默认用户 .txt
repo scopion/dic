@@ -1,0 +1,13 @@
+admin
+[level=2]
+root
+[level=3]
+user
+test
+[level=4]
+accountAdmin01
+[level=5]
+accountUser
+reportsUser
+appAdmin
+mongouser

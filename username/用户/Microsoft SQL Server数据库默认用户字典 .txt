@@ -1,0 +1,15 @@
+[level=1]
+sa
+[level=2]
+probe
+repl_publisher
+repl_subscriber
+distributor_admin
+[level=3]
+admin
+Administrator
+guest
+[level=4]
+test
+[level=5]
+root
