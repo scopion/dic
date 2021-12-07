@@ -1,1 +1,2 @@
 index.php?-s
+/config/config_global.php~
