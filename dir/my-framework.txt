@@ -269,3 +269,5 @@ ibm/console/logon.jsp
 #druid/index
 druid/weburi.html
 druid/websession.html
+#jboss
+invoker/JMXInvokerServlet

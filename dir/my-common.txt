@@ -119,7 +119,7 @@ jmx-console
 web-console
 axis2-admin
 services/Axis2Shell/execCmd?cmd=whoami
-
+services
 api.html
 api/index.html
 api/swagger-ui.html
