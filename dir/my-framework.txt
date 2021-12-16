@@ -271,3 +271,10 @@ druid/weburi.html
 druid/websession.html
 #jboss
 invoker/JMXInvokerServlet
+#jetty
+%u002e/WEB-INF/web.xml
+%2e/WEB-INF/web.xml
+.%00/WEB-INF/web.xml
+static?/%2557EB-INF/web.xml
+#grafana
+api/snapshots/:key
